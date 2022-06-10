@@ -1,0 +1,281 @@
+
+.he_circle1{
+  border: 1px solid lightgrey;
+  border-radius: 20px;
+  width: 20px;
+  height: 20px;
+  background-color: lightgrey;
+}
+.he_circle2{
+  border: 1px solid lightgrey;
+  border-radius: 22px;
+  width: 22px;
+  height: 22px;
+  background-color: lightgrey;
+}
+.he_circle3{
+  border: 1px solid lightgrey;
+  border-radius: 20px;
+  width: 18px;
+  height: 18px;
+  background-color: lightgrey;
+}
+.he_font_bold{
+  font-weight: 700;
+}
+.he_font_bold2{
+  font-weight: 500;
+}
+.he_font_color_1{
+  /* color:rgba(255,165,71,1.0); */
+  color:#FFA571;
+  /* FFA571; */
+}
+.he_font_color_2{
+  /* color:rgba(255,165,71,1.0); */
+  color:#FFFFFF;
+  /* FFA571; */
+}
+.he_font_color_3{
+  color:#C4C4C4;
+}
+.he_font_color_4{
+  color: #E1E0E0;
+}
+.he_font_color_5{
+  color: #AEA7A4;
+}
+.he_font_color_6{
+  color: #7E7E7E;
+}
+.he_font_color_7{
+  color: #A1A1A1;
+}
+.he_border_color1{
+  border-color: #767575;
+}
+.he_border_color2{
+  border-color: #FFA571;
+}
+.he_border_color3{
+  border-color: #E1E0E0;
+}
+.he_border_color4{
+  border-color: transparent;
+}
+.he_border_color5{
+  border-color: #FFEDE4;
+}
+.he_border_color6{
+  border-color: #A1A1A1;
+}
+.he_border_color7{
+  border-color: #EEEDED;
+}
+.he_background_color1{
+  background-color: #FFA571;
+}
+.he_background_color2{
+  background-color: transparent;
+}
+.he_background_color3{
+  background-color: #FFEDE4;
+}
+.he_background_color4{
+  background-color: #EEEDED;
+}
+.he_background_color5{
+  background-color: #FFFFFF;
+}
+.he_linesize1{
+  width: 206px;
+}
+.he_input{
+  padding-left: 70px;
+  padding-right: 50px;
+}
+.he_font_size1{
+  font-size: 20px;
+}
+.he_font_size2{
+  font-size: 25px;
+}
+.he_font_size3{
+  font-size: 18px;
+}
+.he_font_size4{
+  font-size: 35px;
+}
+.he_font_size5{
+  font-size: 40px;
+}
+.he_font_size6{
+  font-size: 10px;
+}
+.he_font_size7{
+  font-size: 15px;
+}
+.he_font_size8{
+  font-size: 13px;
+}
+.he_text_center{
+  text-align: center;
+}
+.he_text_nowrap{
+  white-space: nowrap;
+}
+.he_float_r{
+  float: right;
+}
+.he_float_l{
+  float: left;
+}
+.he_float_rl{
+
+}
+.he_line_l_color1{
+  border-top-color: rgba(0.0,0.0,0.0,0.0);
+  border-bottom-color: rgba(0.0,0.0,0.0,0.0);
+  border-right-color: rgba(0.0,0.0,0.0,0.0);
+  border-left-color: #FFA571;
+}
+.he_background_00{
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.he_background_01{
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.he_margin_tb{
+  margin-top:10px;
+  margin-bottom:10px;
+}
+.he_margin_rl{
+  margin-right:20px;
+  margin-left:20px;
+}
+.he_margin_l{
+  margin-left:20px;
+}
+.he_margin_b{
+  margin-bottom:20px;
+}
+.he_inline-block{
+  display: inline-block;
+}
+.he_box_shadow1{
+  /* box-shadow: 0px 4px 4px 0px rgba(0,0,0,0.25); */
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.he_box_shadow2{
+  box-shadow: 0px 4px 4px 0px rgba(0,0,0,0.25);
+}
+.he_boder_1{
+  border-width: 0px;
+}
+#he_cover{
+  width: 400px;
+  height:850px;
+}
+#he_title{
+  font-size: 50px;
+  white-space: nowrap;
+}
+#he_input_id{
+  /* width: 310px;
+  height: 43px;
+  padding-left: 70px;
+  padding-right: 50px;
+  font-size: 20px; */
+}
+#he_input_password{
+  /* width: 310px;
+  height: 43px;
+  padding-left: 70px;
+  padding-right: 50px;
+  font-size: 20px; */
+}
+#he_input_login{
+  /* width: 310px;
+  height: 43px;
+  font-size: 20px; */
+}
+
+#he_forget{
+  background-color: transparent;
+  border-color: transparent;
+}
+#he_newhere{
+  background-color: transparent;
+  border-color: transparent;
+}
+#he_sign{
+  /* font-size:20px; */
+}
+#he_naver{
+  color:#00FF0A;
+  /* width: 310px;
+  height: 43px;
+  font-size: 20px;
+  background-color: transparent; */
+}
+#he_google{
+  color:#E1E0E0;
+  /* width: 310px;
+  height: 43px;
+  font-size: 20px;
+  background-color: transparent; */
+}
+#he_facebook{
+  color:#001AFF;
+  /* width: 310px;
+  height: 43px;
+  font-size: 20px;
+  background-color: transparent; */
+}
+#he_triangle{
+  border-top: 40px solid #FFA571;
+  border-left: 0px solid transparent;
+  border-right: 30px solid transparent;
+}
+#he_triangle2{
+  border-top: calc(9.0px*1.73) solid #FFA571;
+  border-left: 9px solid transparent;
+  border-right: 9px solid transparent;
+}
+#he_beer1{
+  background-image: url("../새 폴더/버드와이저.jpg");
+}
+#he_beer2{
+  background-image: url("../새 폴더/레페.jpg");
+}
+#he_beer_review1{
+  background-image: url("../새 폴더/산미구엘후기샷.jpg");
+}
+#he_beer_review2{
+  background-image: url("../새 폴더/코로나 후기샷.jpg");
+}
+#he_beer_review3{
+  background-image: url("../새 폴더/코젤 후기샷.jpg");
+}
+#he_beer_review4{
+  background-image: url("../새 폴더/기네스 후기샷.jpg");
+}
+
+#he_cover1{
+  width: 500px;
+  height:100px;
+}
+span{
+  display: inline;
+  border: 1px solid black;
+}
+
+
+
+
+
+ /* b_border_b b_rborder1 he_boder_1 he_box_shadow1 */
